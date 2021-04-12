@@ -1,0 +1,1 @@
+SELECT DISTINCT YazarAd FROM tabloYazar WHERE YazarAd LIKE '%M%';

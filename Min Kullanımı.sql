@@ -1,0 +1,1 @@
+SELECT min(YazarYasi) AS YazarýnYasi FROM tabloYazar

@@ -1,0 +1,1 @@
+SELECT DISTINCT KitapBasimyeri FROM tabloKitap

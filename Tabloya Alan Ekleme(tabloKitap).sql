@@ -1,0 +1,2 @@
+ALTER TABLE tabloKitap
+ADD KitapISBN char(13) NOT NULL

@@ -1,0 +1,1 @@
+SELECT * FROM tabloYayinevi WHERE YayineviEmail = 'elifkitapp@gmail.com' AND YayineviID = 1

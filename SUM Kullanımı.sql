@@ -1,0 +1,1 @@
+ SELECT SUM(KitapFiyat) AS Toplam_Fiyat FROM [tabloKitap]
